@@ -1,0 +1,228 @@
+
+
+
+
+p {
+    font-size: 30px;
+   text-align: center;
+}
+
+ 
+
+
+
+.tampons{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+
+
+
+
+
+.cachets {
+    background-color: chocolate;
+    border-radius: 150px;
+    padding: 50px;
+    margin: 50px;
+}
+
+
+
+
+
+
+.fournitures {
+    background-color: rosybrown;
+    border-radius: 150px;
+    padding: 50px;
+    margin: 50px;
+}
+
+
+
+
+
+
+
+.fourniture {
+        display: flex;
+        align-items: center;
+        border-radius: 150px;
+        padding: 50px;
+        margin: 50px;
+
+
+    }
+
+address {
+    text-align: center;
+}
+
+ 
+ 
+img {
+    display: flex;
+    width: 500px;
+    height: 250px;
+    padding-left: 3%;
+    padding-left: 3%;
+}
+
+
+
+
+.navbar {
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 2px;
+  padding-left: 200px;
+  padding-top: 10px;
+  padding-left: 20px;  
+}
+
+ 
+
+
+
+ul {
+    padding-left: 3%;
+    display: flex;
+    list-style-type: none;
+    text-decoration: none;
+}
+
+
+
+
+a {
+    flex-wrap: wrap;
+    list-style-position: outside;
+    padding-left: 3%;
+    display: flex;
+    margin: 3px;
+    text-align: center;
+    text-decoration: 0;
+    margin-left: 2%;
+    font-size: 30px;
+ 
+ }
+
+
+
+
+ .inf-electro {
+    border-radius: 150px;
+    background-color: aqua;
+    padding: 50px;
+    margin: 50px;
+ }
+
+
+
+
+ .footer{
+    border-radius: 150px;
+    background-color: violet;
+    padding: 50px;
+    margin: 50px;
+}
+
+
+
+
+
+ .site-web {
+    border-radius: 150px;
+    background-color: grey;
+    padding: 50px;
+    margin: 50px;
+}
+
+
+
+
+
+
+.impression {
+    border-radius: 150px;
+    background-color: violet;
+    padding: 50px;
+    margin: 50px;
+}
+
+
+
+
+
+.confection {
+    border-radius: 150px;
+    background-color: burlywood;
+    padding: 50px;
+    margin: 50px;
+}
+
+
+
+
+
+.confection{
+    background-color: bisque;
+    padding: 50px;
+    margin: 50px;
+}
+
+
+
+
+
+.add{
+    background-color: palevioletred;
+    padding: 50px;
+    margin: 50px;
+    border-radius: 150px;
+}
+
+
+
+
+.img1 { 
+    border-radius: 150px;
+}
+
+
+
+
+
+.navbar p {
+    padding-right: 350px;
+}
+
+
+
+
+
+.img2 { 
+    border-radius: 150px;
+}
+
+
+
+
+
+
+.img3 { 
+    border-radius: 150px;
+}
+
+
+
+
+ address {
+    font-size: 30px;
+ }
